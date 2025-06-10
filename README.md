@@ -18,6 +18,9 @@ Entre em contato:
   <a href="https://www.instagram.com/js.xt7?igsh=NWVrYWNpazB0ejFh">clique aqui<a>
 <br>
 <br>
+  - <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a>sfjoseilson@gmail.com<a>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseilsonJs)](https://github.com/anuraghazra/github-readme-stats)
 
